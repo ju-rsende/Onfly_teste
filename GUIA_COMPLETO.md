@@ -360,3 +360,14 @@ https://www.random.org/integers/?num=1&min={min}&max={max}&col=1&base=10&format=
 - ✅ Retorna dados estruturados
 - ✅ Integra perfeitamente com n8n
 - ✅ Segue melhores práticas de desenvolvimento
+
+- Imagens de testes, filtros e nós usados:
+
+- <img width="482" height="784" alt="Captura de tela 2025-09-22 124307" src="https://github.com/user-attachments/assets/958f29e7-3c94-4909-b15f-785a9f25ddcf" />
+
+- <img width="1913" height="970" alt="Captura de tela 2025-09-22 124316" src="https://github.com/user-attachments/assets/6538f2b9-13b7-406b-a6a6-a638e1aa332b" />
+
+- <img width="1914" height="966" alt="Captura de tela 2025-09-22 124244" src="https://github.com/user-attachments/assets/ce35d997-4951-4e36-844a-bed6ef876c73" />
+
+
+
